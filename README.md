@@ -14,6 +14,11 @@ After completion, I wanted to make it a little more complicated, so I set out to
 * Comment GUI Code and convert to classes for easier readability
 * Use PyInstaller to create exe and add to releases
 
+## Built With
+
+* [SpotiPy](https://spotipy.readthedocs.io/en/2.16.1/)
+* [tkinter](https://docs.python.org/3/library/tkinter.html)
+
 ## Acknowledgements
 
 * vegaseat, for providing sample code on how to convert a url image into one useable by Tkinter (https://www.daniweb.com/programming/software-development/code/493005/display-an-image-from-the-web-tkinter)
